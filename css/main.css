@@ -1,6 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-image: url("https://media.gettyimages.com/photos/aged-painted-artistic-aged-canvas-background-picture-id498170546?b=1&k=6&m=498170546&s=612x612&w=0&h=QGxEPxIUQqntvL0r37G4fLrAdivinFnt0hMqdPKcwTw=");
+    background-size: contain
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
