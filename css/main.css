@@ -1,10 +1,14 @@
 body {
 	padding-top: 70px;
+  background-image: url(https://media.gettyimages.com/photos/aged-painted-artistic-aged-canvas-background-picture-id498170546?b=1&k=6&m=498170546&s=612x612&w=0&h=QGxEPxIUQqntvL0r37G4fLrAdivinFnt0hMqdPKcwTw=);
+  background-size: contain;
+  background-attachment: fixed;
 }
 
 .jumbotron {
 	color: #2c3e50;
 	background: #ecf0f1;
+  border: 2px solid white;
 }
 
 .navbar-inverse {
@@ -20,39 +24,27 @@ body {
 }
 
 .image1 {
-  background-image: url(https://source.unsplash.com/cPF2nlWcMY4);
+  background-image: url(https://source.unsplash.com/Hlj0MFGUBcE);
 }
 
 .image2 {
-  background-image: url(https://source.unsplash.com/UglVBZGpaFg);
+  background-image: url(https://source.unsplash.com/jAPdUndfJBw);
 }
 
 .image3 {
-  background-image: url(https://source.unsplash.com/dk27_eMaoPk);
+  background-image: url(https://source.unsplash.com/MuJHwDHbXUk);
 }
 
 .image4 {
-  background-image: url(https://source.unsplash.com/gwNDAWmSIwY);
+  background-image: url(https://source.unsplash.com/TsVN31Dzyv4);
 }
 
 .image5 {
-  background-image: url(https://source.unsplash.com/l44zRea95BA);
+  background-image: url(https://source.unsplash.com/NG_a-z0ScM0);
 }
 
 .image6 {
   background-image: url(https://source.unsplash.com/G2SDLsJp3rg);
-}
-
-.image7 {
-  background-image: url(https://source.unsplash.com/x1tMEhG6fBk);
-}
-
-.image8 {
-  background-image: url(https://source.unsplash.com/mOZId9nwf_E);
-}
-
-.image9 {
-  background-image: url(https://source.unsplash.com/zW4IJccetsY);
 }
 
 .image {
